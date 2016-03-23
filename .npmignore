@@ -1,0 +1,7 @@
+.npmignore
+.gitignore
+.travis.yml
+.eslintrc
+.babelrc
+.idea/
+src/
